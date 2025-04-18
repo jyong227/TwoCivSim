@@ -1,0 +1,1 @@
+Write a civilization simulator in python that models the interactions between two civilizations. Each civilization should have controllable characteristics like intelligence, rate of tech improvements, aggressiveness, and cooperation.
